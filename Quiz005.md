@@ -10,4 +10,4 @@ multiplication(5)
 
 ```
 
-![]mult.jpg
+![](mult.jpg)

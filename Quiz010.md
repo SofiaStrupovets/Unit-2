@@ -12,4 +12,4 @@ difference([0,5,6,10])
 
 ```
 
-![](quiz10diagram.jpg)
+
